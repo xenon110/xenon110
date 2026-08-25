@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *mayankrajdto@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L3Q3ObFjN8_YDGwbZzHibbnfXLWzBV3_/view](https://drive.google.com/file/d/1L3Q3ObFjN8_YDGwbZzHibbnfXLWzBV3_/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1L3Q3ObFjN8_YDGwbZzHibbnfXLWzBV3_/view](https://drive.google.com/file/d/1udg0oY2RuPLh2rD2_bMb9wX_DeoL8MvX/view?usp=sharing)
 
 - ⚡ Fun fact *I can find patterns in pizza toppings faster than in datasets. just kidding, it's a tie!*
 
