@@ -1,32 +1,178 @@
-<p align="center">
-  <img src="https://i958.photobucket.com/albums/ae69/skwiglymagazine/Banner_JodieHaslam_zpsaqvmhrfw.gif">
-</p>
 
-<h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">Data wizard with analytical passion.</h3>
+<!-- ===================== HEADER ===================== -->
 
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&amp;ssl=1">
+<div align="center">
 
-- 🌱 I’m currently learning *Deep Learning, Advance Python*
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Mayank%20Raj&fontSize=55&fontColor=FFFFFF&fontAlignY=36&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Mayank Raj profile banner"/>
 
-- 👨‍💻 My Coding Profile [https://takeuforward.org/profile/Mayank10](https://takeuforward.org/profile/Mayank10)
+  <h3>Building useful applications with data, intelligence and code.</h3>
 
-- 💬 Ask me about *Python,NumPy, Panda*
+  <p>
+    <a href="https://github.com/xenon110">
+      <img src="https://img.shields.io/badge/GitHub-xenon110-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mayank-raj-b8b312272/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://takeuforward.org/profile/Mayank10">
+      <img src="https://img.shields.io/badge/TakeUForward-Coding-8B5CF6?style=for-the-badge" alt="TakeUForward"/>
+    </a>
+    <a href="mailto:mayankrajdto@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 
-- 📫 How to reach me *mayankrajdto@gmail.com*
+  <img src="https://komarev.com/ghpvc/?username=xenon110&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L3Q3ObFjN8_YDGwbZzHibbnfXLWzBV3_/view](https://drive.google.com/file/d/1udg0oY2RuPLh2rD2_bMb9wX_DeoL8MvX/view?usp=sharing)
+</div>
 
-- ⚡ Fun fact *I can find patterns in pizza toppings faster than in datasets. just kidding, it's a tie!*
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!-- ===================== ABOUT ===================== -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## About Me
 
-<h3 align="left">LeetCode:</h3>
-<p align="left">
-  <a href="https://leetcode.com/Mayank10/" target="_blank">My LeetCode Profile</a>
-</p>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+
+I'm Mayank, a software engineer interested in turning data into useful insights and building applications that solve real problems.
+
+- Currently exploring **Deep Learning and Advanced Python**
+- Interested in **Data Science, Machine Learning and AI**
+- Building software applications and data-driven projects
+- Practising problem-solving and data structures
+- Exploring cloud technologies and application deployment
+- Enjoy experimenting with ideas and learning by building
+
+<br clear="right"/>
+
+---
+
+<!-- ===================== GITHUB DASHBOARD ===================== -->
+
+## GitHub Dashboard
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xenon110&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenon110&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
+
+</div>
+
+<div align="center">
+
+  <img width="75%" src="https://streak-stats.demolab.com?user=xenon110&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xenon110&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=79C0FF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## Tech Stack & Tools
+
+### Programming Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,sql,bash&theme=dark" alt="Python Java SQL and Bash"/>
+</div>
+
+### Data Science & Machine Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,sklearn&theme=dark" alt="Data science and machine learning tools"/>
+</div>
+
+### Databases, Cloud & Development
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,aws,docker,git,github,linux,vscode&theme=dark" alt="Databases cloud and development tools"/>
+</div>
+
+### Visualization & Design
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=matlab,figma&theme=dark" alt="MATLAB and Figma"/>
+</div>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/xenon110/Mediskin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xenon110&repo=Mediskin&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Mediskin repository card"/>
+  </a>
+
+  <a href="https://github.com/xenon110/prime-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xenon110&repo=prime-agent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Prime Agent repository card"/>
+  </a>
+
+</div>
+
+> **Explore more:** Visit my [GitHub repositories](https://github.com/xenon110?tab=repositories) to discover my other projects, experiments and contributions.
+
+---
+
+<!-- ===================== CODING PROFILES ===================== -->
+
+## Coding Profiles
+
+<div align="center">
+
+  <a href="https://leetcode.com/Mayank10/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+  </a>
+
+  <a href="https://takeuforward.org/profile/Mayank10">
+    <img src="https://img.shields.io/badge/TakeUForward-Profile-8B5CF6?style=for-the-badge" alt="TakeUForward profile"/>
+  </a>
+
+  <a href="https://github.com/xenon110?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-238636?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  </a>
+
+</div>
+
+---
+
+<!-- ===================== RESUME ===================== -->
+
+## Resume & Contact
+
+<div align="center">
+
+  <p>Interested in collaborating on software, data science or machine learning projects?</p>
+
+  <a href="https://drive.google.com/file/d/1udg0oY2RuPLh2rD2_bMb9wX_DeoL8MvX/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View resume"/>
+  </a>
+
+  <a href="mailto:mayankrajdto@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mayank-raj-b8b312272/">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### "Learn continuously. Build thoughtfully. Improve every day."
+
+  <sub>Thanks for visiting my profile.</sub>
+
+</div>
