@@ -1,101 +1,125 @@
-
-<!-- ===================== MAYANK RAJ ===================== -->
-
 <div align="center" id="top">
 
-<h1>Mayank Raj</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:22d3ee,50:6366f1,100:a855f7&height=200&section=header&text=Mayank%20Raj&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Data%20Scientist%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Cloud%20Builder&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Mayank Raj"/>
 
-<h3>Data Scientist | AI/ML Engineer | Software Developer</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=550&lines=Turning+data+into+insights;Building+intelligent+applications;Learning+%7C+Building+%7C+Improving" alt="Animated tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Turning+data+into+insights;Training+models%2C+shipping+them+to+the+cloud;Building+intelligent+applications;Learning+%7C+Building+%7C+Improving" alt="Tagline"/>
 
 <br/>
 
-<a href="https://mayank-portfolio-indol.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/xenon110">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/mayank-raj-b8b312272/?isSelfProfile=true">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:mayankrajdto@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=xenon110&style=for-the-badge&color=0891B2&label=GITHUB+PROFILE+VIEWS" alt="GitHub profile views"/>
+<a href="https://mayank-portfolio-indol.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=0b1020" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mayank-raj-b8b312272/"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mayankrajdto@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/1udg0oY2RuPLh2rD2_bMb9wX_DeoL8MvX/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=22D3EE" alt="Resume"/></a>
+<img src="https://komarev.com/ghpvc/?username=xenon110&style=for-the-badge&color=6366F1&label=Views" alt="Profile views"/>
 
 </div>
 
----
+<br/>
+
+## 👋 About
+
+```python
+class Mayank:
+    role     = ["Data Scientist", "AI/ML Engineer", "Software Developer"]
+    focus    = ["Deep Learning", "NLP & LLMs", "Computer Vision", "MLOps on the Cloud"]
+    mindset  = "Curious mind. Practical code. Continuous improvement."
+    ships    = "models → APIs → containers → cloud"
+```
+
+## 🧰 Stack
+
+<table>
+<tr>
+<td><b>Languages & Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,fastapi&theme=dark" alt="Languages and web"/></td>
+</tr>
+<tr>
+<td><b>Data & ML</b></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas&theme=dark" alt="Data and ML"/></td>
+</tr>
+<tr>
+<td><b>Cloud & Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,postgres,mysql,supabase&theme=dark" alt="Cloud and data"/></td>
+</tr>
+<tr>
+<td><b>Exploring</b></td>
+<td><code>Kubernetes</code> · <code>Terraform</code> · <code>GCP / Azure</code> · <code>MLflow</code></td>
+</tr>
+</table>
+
+## 📈 Activity — live
 
 <div align="center">
 
-### `whoami`
-
-Turning data into insights and ideas into working applications.
-
-*Curious mind. Practical code. Continuous improvement.*
+<img src="https://img.shields.io/badge/auto--refreshed_every_6h-GitHub_Actions-22D3EE?style=flat-square&logo=githubactions&logoColor=white" alt="Auto-refresh badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/data-real_GitHub_GraphQL_API-6366F1?style=flat-square&logo=github" alt="Data source badge"/>
 
 </div>
 
----
-
-## ⚡ Tech Stack
+> Rebuilt from real GitHub history every 6 hours — heatmap per day, weekly pulse, language breakdown, and key numbers. Click any year to expand it. Open the SVG directly to **hover over individual days**.
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,fastapi,tensorflow,pytorch,mysql,postgres,supabase,docker,aws,git,github,linux&perline=8&theme=dark" alt="Technologies and tools"/>
-
+<img src="assets/dashboard-last-year.svg" width="100%" alt="GitHub activity dashboard — last 12 months"/>
 </div>
 
----
+<details open>
+<summary><b>📅 Browse by year</b></summary>
+
+<!--START_SECTION:years-->
+<!--END_SECTION:years-->
+
+</details>
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3>🩺 MediSkin</h3>
+<p>AI-powered skin disease analysis using deep learning and computer vision. Classifies 20+ conditions with confidence scores.</p>
 
-### MediSkin
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-AI-powered skin disease analysis using deep learning and computer vision.
-
-`Python` `TensorFlow` `React`
-
-<a href="https://github.com/xenon110/Mediskin">View Project →</a>
+[![View Project](https://img.shields.io/badge/View_Project-22D3EE?style=for-the-badge&logo=github&logoColor=black)](https://github.com/xenon110/Mediskin)
 
 </td>
 <td width="50%" valign="top">
+<h3>📬 Veyra</h3>
+<p>Intelligent email analytics using NLP and large language models. Summarises, categorises and surfaces insights from your inbox.</p>
 
-### Veyra
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-6366F1?style=flat-square&logo=google&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 
-Intelligent email analytics using NLP and large language models.
-
-`Python` `FastAPI` `Gemini` `Supabase`
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xenon110?tab=repositories)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<h3>🗂️ Task Management</h3>
+<p>Data-driven task, attendance and operational workflows. Full-stack system built for real teams.</p>
 
-### Task Management
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-Data-driven task, attendance and operational workflows.
-
-`React` `Node.js` `PostgreSQL`
+[![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xenon110?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
+<h3>🍽️ Scan2Eat</h3>
+<p>AI-powered food analysis and nutrition insights. Scan any meal and get instant breakdown of macros and calories.</p>
 
-### Scan2Eat
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-AI-powered food analysis and nutrition insights.
-
-`Python` `OpenCV` `Machine Learning`
+[![View Project](https://img.shields.io/badge/View_Project-34D399?style=for-the-badge&logo=github&logoColor=black)](https://github.com/xenon110?tab=repositories)
 
 </td>
 </tr>
@@ -103,38 +127,20 @@ AI-powered food analysis and nutrition insights.
 
 <div align="center">
 
-<a href="https://github.com/xenon110?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-2563EB?style=for-the-badge&logo=github" alt="Explore repositories"/>
-</a>
+[![All Repos](https://img.shields.io/badge/Explore_All_Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xenon110?tab=repositories)
 
 </div>
 
----
+## 🔥 Recently active (auto-updated)
 
-## 📊 GitHub Analytics
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xenon110&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenon110&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&langs_count=6" alt="Top languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=xenon110&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xenon110&bg_color=0D1117&color=E2E8F0&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-## 🌐 Find Me Online
+## 🌐 Elsewhere
 
 <div align="center">
 
+<a href="https://github.com/xenon110?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 <a href="https://leetcode.com/u/mayank103/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://www.kaggle.com/raj110"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.geeksforgeeks.org/profile/rmayan29z6?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
@@ -142,27 +148,13 @@ AI-powered food analysis and nutrition insights.
 
 <br/><br/>
 
-<a href="https://mayank-portfolio-indol.vercel.app/">
-<img src="https://img.shields.io/badge/MY%20PORTFOLIO-Visit%20Website-0891B2?style=for-the-badge&logo=vercel" alt="Portfolio website"/>
-</a>
-<a href="https://drive.google.com/file/d/1udg0oY2RuPLh2rD2_bMb9wX_DeoL8MvX/view?usp=sharing">
-<img src="https://img.shields.io/badge/RESUME-View%20CV-16A34A?style=for-the-badge&logo=googledrive" alt="Resume"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `while (alive) { keepBuilding(); }`
-
 **Less talking. More building. Better every commit.**
 
-<a href="#top">⬆ BACK TO TOP</a>
+<!--START_SECTION:updated-->
+<!--END_SECTION:updated-->
 
-<br/><br/>
+<a href="#top">⬆ back to top</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:172554,100:080B16&height=100&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a855f7&height=90&section=footer" width="100%" alt=""/>
 
 </div>
