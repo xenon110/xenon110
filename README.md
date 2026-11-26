@@ -64,7 +64,7 @@ class Mayank:
 </div>
 
 <details open>
-<summary><b>📅 Browse by year</b></summary>
+<summary><b>📅 Browse by year</b> — click any year to expand its full heatmap</summary>
 
 <!--START_SECTION:years-->
 <!--END_SECTION:years-->
