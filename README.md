@@ -47,24 +47,14 @@ class Mayank:
 </tr>
 </table>
 
-## 📈 Activity — live
+## 📈 GitHub Activity
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/auto--refreshed_every_6h-GitHub_Actions-22D3EE?style=flat-square&logo=githubactions&logoColor=white" alt="Auto-refresh badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/data-real_GitHub_GraphQL_API-6366F1?style=flat-square&logo=github" alt="Data source badge"/>
-
+<img src="assets/dashboard-last-year.svg" width="100%" alt="GitHub activity — last 12 months"/>
 </div>
 
-> Rebuilt from real GitHub history every 6 hours — heatmap per day, weekly pulse, language breakdown, and key numbers. Click any year to expand it. Open the SVG directly to **hover over individual days**.
-
-<div align="center">
-<img src="assets/dashboard-last-year.svg" width="100%" alt="GitHub activity dashboard — last 12 months"/>
-</div>
-
-<details open>
-<summary><b>📅 Browse by year</b> — click any year to expand its full heatmap</summary>
+<details>
+<summary><b>📅 Previous years</b></summary>
 
 <!--START_SECTION:years-->
 <details><summary><b>2026</b> — 380 contributions</summary><br/><img src="assets/dashboard-2026.svg" width="100%" alt="2026 dashboard"/></details>
