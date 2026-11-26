@@ -1,0 +1,40 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/profile.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate dashboards + update README
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/generate.py
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: refresh profile stats [skip ci]"
+          git push
