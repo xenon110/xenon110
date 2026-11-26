@@ -67,6 +67,9 @@ class Mayank:
 <summary><b>📅 Browse by year</b> — click any year to expand its full heatmap</summary>
 
 <!--START_SECTION:years-->
+<details><summary><b>2026</b> — 380 contributions</summary><br/><img src="assets/dashboard-2026.svg" width="100%" alt="2026 dashboard"/></details>
+<details><summary><b>2025</b> — 47 contributions</summary><br/><img src="assets/dashboard-2025.svg" width="100%" alt="2025 dashboard"/></details>
+<details><summary><b>2024</b> — 18 contributions</summary><br/><img src="assets/dashboard-2024.svg" width="100%" alt="2024 dashboard"/></details>
 <!--END_SECTION:years-->
 
 </details>
@@ -134,6 +137,7 @@ class Mayank:
 ## 🔥 Recently active (auto-updated)
 
 <!--START_SECTION:repos-->
+<table><tr><th>Repository</th><th>About</th><th>Language</th><th>Stars</th><th>Last push</th></tr><tr><td><a href="https://github.com/xenon110/Mission-27"><b>Mission-27</b></a></td><td>—</td><td><code>C++</code></td><td>⭐ 0</td><td>2026-11-26</td></tr><tr><td><a href="https://github.com/xenon110/My_portfolio"><b>My_portfolio</b></a></td><td>My portfolio</td><td><code>JavaScript</code></td><td>⭐ 1</td><td>2026-11-20</td></tr><tr><td><a href="https://github.com/xenon110/Bhoomi"><b>Bhoomi</b></a></td><td>—</td><td><code>Dart</code></td><td>⭐ 0</td><td>2026-11-12</td></tr><tr><td><a href="https://github.com/xenon110/Task_Management_BKM"><b>Task_Management_BKM</b></a></td><td>—</td><td><code>TypeScript</code></td><td>⭐ 0</td><td>2026-10-30</td></tr><tr><td><a href="https://github.com/xenon110/Creatorly"><b>Creatorly</b></a></td><td>—</td><td><code>TypeScript</code></td><td>⭐ 0</td><td>2026-10-23</td></tr><tr><td><a href="https://github.com/xenon110/Devpost-Retail-Hackthon"><b>Devpost-Retail-Hackthon</b></a></td><td>—</td><td><code>Python</code></td><td>⭐ 0</td><td>2026-10-09</td></tr></table>
 <!--END_SECTION:repos-->
 
 ## 🌐 Elsewhere
@@ -151,6 +155,7 @@ class Mayank:
 **Less talking. More building. Better every commit.**
 
 <!--START_SECTION:updated-->
+<sub>🤖 auto-generated · last refresh 26 Nov 2026, 13:00 UTC</sub>
 <!--END_SECTION:updated-->
 
 <a href="#top">⬆ back to top</a>
